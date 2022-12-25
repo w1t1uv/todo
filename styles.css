@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+header {
+    padding: 30px 30px 40px;
+    background-color: #4061d6;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 600;
+    color: #1232a6;
+}
+
+.todo {
+    margin-top: 40px;
+    margin-left: 25px;
+}
